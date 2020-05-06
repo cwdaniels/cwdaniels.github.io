@@ -2454,6 +2454,8 @@ background-color: <<colour tiddler-info-background>>;}
   border:0px solid #eee;background-color:#eee;
   word-break: break-all; word-wrap: break-word;}
 
-.tc-tiddler-controls {
+.tc-tab-buttons {
+  display: none;
+}.tc-tiddler-controls {
    display: none;
 }
